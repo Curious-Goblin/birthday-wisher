@@ -1,8 +1,33 @@
-# React + Vite
+# Birthday Wisher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Birthday Wisher is a React application that allows users to create two unique birthday cards by entering their name. This repository contains the source code for the Birthday Wisher application.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Users can enter their name to generate personalized birthday cards.
+- Two unique birthday card designs are available.
+- Responsive design for use on various devices.
+
+## Technologies Used
+
+- React
+- HTML
+- CSS
+
+## Setup and Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+   The application will be available at `http://localhost:5173`.
